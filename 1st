@@ -43,7 +43,7 @@ CELESTIA_CHAIN="mamaki"
 به عنوان مثال :
 
 CELESTIA_NODENAME="abari" 
-CELESTIA_WALLET="abaricrypt"
+CELESTIA_WALLET="abaricryp"
 CELESTIA_CHAIN="mamaki"
 
 --------------------------------------------------------
